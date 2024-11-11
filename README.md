@@ -8,7 +8,7 @@ Dataset from Kaggle: https://www.kaggle.com/datasets/rupindersinghrana/credit-ca
 ![images/inertia.png](images/inertia.png)
 
 
-![images/sil.png](images/inertia.png)
+![images/sil.png](images/sil.png)
 
 **Optimal number of clusters: 3**
 
